@@ -1,11 +1,13 @@
 ### Hola 👋, Soy Steven Duarte
-#### Soy Estudiante de Ingeniería Mecatrónica.
-![Soy Estudiante de Ingeniería Mecatrónica.](https://github.com/saadeghi/saadeghi/blob/master/dino.gi)
+![](https://github.com/saadeghi/saadeghi/blob/master/dino.gi)
 
+
+Estudiante de Ingeniería Mecatrónica.
 Estudio en la Pontificia Universidad Madre y Maestra.
 Tengo 21 años y soy un desarrollador junior.
 
 Aquí podrás ve todos mis proyectos en los que estoy trabajando.
+
 
 Aquí podrás saber mucho mas de todos mis avances.
 
