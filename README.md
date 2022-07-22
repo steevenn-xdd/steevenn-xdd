@@ -17,7 +17,7 @@ Habilidades: JS / HTML / CSS / C++ / Python
 - 🌱 Estoy aprendiendo JavaScripts 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/steevenn-xdd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](wa.me/18299416234)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/steevenn-xdd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https:/wa.me/18299416234)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=steevenn-xdd&show_icons=true)  
 
